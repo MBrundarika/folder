@@ -1,0 +1,6 @@
+create or replace view my_view as
+select
+id,
+name,
+place
+from emp;
