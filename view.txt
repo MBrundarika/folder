@@ -1,0 +1,6 @@
+create or replace view my_view as
+select
+name,
+id,
+place,
+from mango;
