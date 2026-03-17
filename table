@@ -1,3 +1,6 @@
 create or replace table emp(
-    
-)
+    id integer,
+    name varchar(18),
+    place varchar(28)
+
+);
